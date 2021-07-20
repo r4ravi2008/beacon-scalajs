@@ -4,11 +4,6 @@ A full-stack Scala application powered by ZIO and Laminar.
 
 Created with **[zio-app](https://github.com/kitlangton/zio-app)**.
 
-## Run with zio-app
-
-1. `zio-app dev`
-2. open `http://localhost:3000`
-
 ## Run Manually
 
 1. `sbt ~frontend/fastLinkJS` in another tab.
